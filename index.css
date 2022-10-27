@@ -779,7 +779,7 @@ height: 60px;
     grid-template-columns: 1fr;
     gap: 10px;
     padding: 0px;
-    width: 328px;
+    width: 375px;
   }
   .main__video-title {
     width: 308px;
@@ -788,7 +788,7 @@ height: 60px;
   }
   .main__video {
     margin-top: 30px;
-    width: 328px;
+    width: 375px;
   }
   .main__client-items {
     display: grid;
@@ -809,7 +809,7 @@ height: 114px;
     margin-left: 40px;
   }
   .main__team {
-    width: 328px;
+    width: 375px;
     background: #ffffff;
     display: flex;
     flex-direction: column;
@@ -824,7 +824,7 @@ height: 114px;
   }
   .main__contact {
     flex-direction: column;
-    width: 328px;
+    width: 375px;
   }
   .main-contact__agency-button {
     margin-left: 1rem;
@@ -842,9 +842,10 @@ height: 114px;
     
   }
   .main__client {
-    width: 328px;
+    width: 375px;
   }
   .footer {
     width: 100%;
   }
+  
 }

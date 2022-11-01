@@ -107,7 +107,7 @@ body {
   height: 48px;
 }
 
-.middle-section--learnmore {
+.middle-section__button--learnmore {
   color: #00a0c1;
   background-color: transparent;
   border: 1px solid #1ba0ab;
@@ -470,7 +470,7 @@ body {
   padding: 20px 0 0 5rem;
 }
 
-.main-contact__agency-button {
+.main__contact-agency-button {
   cursor: pointer;
   outline: none;
   border: none;
@@ -482,17 +482,17 @@ body {
   margin-left: 38rem;
 }
 
-.main-contact__agency-content {
+.main__contact-agency-content {
   font-family: "Montserrat";
   padding: 1rem 0 0 6rem;
 }
 
-.main-contact__agency-title {
+.main__contact-agency-title {
   font-size: 24px;
   color: #252b42;
 }
 
-.main-contact__agency-subtitle {
+.main__contact-agency-subtitle {
   font-size: 14px;
   color: #737373;
 }
@@ -643,7 +643,7 @@ body {
     gap: 20px;
   }
 
-  .contact-layout__input {
+  .main__contact-layout-input {
     box-sizing: border-box;
     background: #f9f9f9;
     border: 1px solid #bdbdbd;
@@ -826,7 +826,7 @@ height: 114px;
     flex-direction: column;
     width: 375px;
   }
-  .main-contact__agency-button {
+  .main__contact-agency-button {
     margin-left: 1rem;
   }
   .main__contact-agency {
